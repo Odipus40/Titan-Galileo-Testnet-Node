@@ -41,6 +41,11 @@ Extract package:
 unzip agent-linux.zip -d /opt/titanagent
 ```
 
+Create Screen:
+```
+screen -S titan
+```
+
 Masuk folder Titan:
 ```
 cd /opt/titanagent
